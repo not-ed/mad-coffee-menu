@@ -1,0 +1,143 @@
+{
+    "categories" : [
+        {
+            "name" : "Coffee",
+            "items": [
+                {
+                    "product" : "Americano",
+                    "price": "1.65",
+                    "calories" : "28"
+                },
+    
+                {
+                    "product" : "Flat White",
+                    "price" : "1.65",
+                    "calories" : "173"
+                },
+    
+                {
+                    "product" : "Latte",
+                    "price" : "1.95",
+                    "calories" : "206"
+                },
+            
+                {
+                    "product" : "Cappuccino",
+                    "price" : "1.95",
+                    "calories" : "130"
+                },
+    
+                {
+                    "product" : "Espresso",
+                    "price" : "1.50",
+                    "calories" : "9"
+                },
+    
+                {
+                    "product" : "Mocha",
+                    "price" : "2.55",
+                    "calories" : "197"
+                }
+            ]
+        },
+
+
+
+        {
+            "name" : "Tea",
+            "items": [
+                {
+                    "product" : "Earl Grey Tea",
+                    "price": "1.15",
+                    "calories" : "2"
+                },
+
+                {
+                    "product" : "Green Tea",
+                    "price": "1.30",
+                    "calories" : "3"
+                },
+
+                {
+                    "product" : "Ginger Tea",
+                    "price": "1.30",
+                    "calories" : "19"
+                },
+
+                {
+                    "product" : "Chamomile Tea",
+                    "price": "1.30",
+                    "calories" : "2"
+                },
+
+                {
+                    "product" : "Mint Tea",
+                    "price": "1.30",
+                    "calories" : "3"
+                }
+            ]
+        },
+
+
+
+        {
+            "name" : "Other Hot Drinks",
+            "items": [
+                {
+                    "product" : "Hot Chocolate",
+                    "price": "2.15",
+                    "calories" : "195"
+                },
+
+                {
+                    "product" : "Hot Milk",
+                    "price": "1.85",
+                    "calories" : "117"
+                }
+            ]
+        },
+
+
+
+        {
+            "name" : "Cold/Iced Drinks",
+            "items": [
+                {
+                    "product" : "Vanilla Frappé",
+                    "price": "2.80",
+                    "calories" : "258"
+                },
+
+                {
+                    "product" : "Chocolate Frappé",
+                    "price": "2.80",
+                    "calories" : "261"
+                },
+
+                {
+                    "product" : "Caramel Frappé",
+                    "price": "2.80",
+                    "calories" : "260"
+                },
+
+                {
+                    "product" : "Peach Iced Tea",
+                    "price": "1.80",
+                    "calories" : "5"
+                },
+            
+                {
+                    "product" : "Lemon Iced Tea",
+                    "price": "1.80",
+                    "calories" : "8"
+                },
+
+                {
+                    "product" : "Raspberry Iced Tea",
+                    "price": "1.80",
+                    "calories" : "6"
+                }
+            ]
+        }
+    ]
+}
