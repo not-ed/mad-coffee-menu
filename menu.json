@@ -6,37 +6,43 @@
                 {
                     "product" : "Americano",
                     "price": "1.65",
-                    "calories" : "28"
+                    "calories" : "28",
+                    "photo" : "images/americano.png"
                 },
     
                 {
                     "product" : "Flat White",
                     "price" : "1.65",
-                    "calories" : "173"
+                    "calories" : "173",
+                    "photo" : "images/flat-white.png"
                 },
     
                 {
                     "product" : "Latte",
                     "price" : "1.95",
-                    "calories" : "206"
+                    "calories" : "206",
+                    "photo" : "images/latte.png"
                 },
             
                 {
                     "product" : "Cappuccino",
                     "price" : "1.95",
-                    "calories" : "130"
+                    "calories" : "130",
+                    "photo" : "images/cappuccino.png"
                 },
     
                 {
                     "product" : "Espresso",
                     "price" : "1.50",
-                    "calories" : "9"
+                    "calories" : "9",
+                    "photo" : "images/espresso.png"
                 },
     
                 {
                     "product" : "Mocha",
                     "price" : "2.55",
-                    "calories" : "197"
+                    "calories" : "197",
+                    "photo" : "images/mocha.png"
                 }
             ]
         },
@@ -49,31 +55,36 @@
                 {
                     "product" : "Earl Grey Tea",
                     "price": "1.15",
-                    "calories" : "2"
+                    "calories" : "2",
+                    "photo" : "images/earl-grey.png"
                 },
 
                 {
                     "product" : "Green Tea",
                     "price": "1.30",
-                    "calories" : "3"
+                    "calories" : "3",
+                    "photo" : "images/green-tea.png"
                 },
 
                 {
                     "product" : "Ginger Tea",
                     "price": "1.30",
-                    "calories" : "19"
+                    "calories" : "19",
+                    "photo" : "images/ginger-tea.png"
                 },
 
                 {
                     "product" : "Chamomile Tea",
                     "price": "1.30",
-                    "calories" : "2"
+                    "calories" : "2",
+                    "photo" : "images/chamomile-tea.png"
                 },
 
                 {
                     "product" : "Mint Tea",
                     "price": "1.30",
-                    "calories" : "3"
+                    "calories" : "3",
+                    "photo" : "images/mint-tea.png"
                 }
             ]
         },
@@ -86,13 +97,15 @@
                 {
                     "product" : "Hot Chocolate",
                     "price": "2.15",
-                    "calories" : "195"
+                    "calories" : "195",
+                    "photo" : "images/hot-chocolate.png"
                 },
 
                 {
                     "product" : "Hot Milk",
                     "price": "1.85",
-                    "calories" : "117"
+                    "calories" : "117",
+                    "photo" : "images/hot-milk.png"
                 }
             ]
         },
@@ -105,37 +118,43 @@
                 {
                     "product" : "Vanilla Frappé",
                     "price": "2.80",
-                    "calories" : "258"
+                    "calories" : "258",
+                    "photo" : "images/vanilla-frappe.png"
                 },
 
                 {
                     "product" : "Chocolate Frappé",
                     "price": "2.80",
-                    "calories" : "261"
+                    "calories" : "261",
+                    "photo" : "images/chocolate-frappe.png"
                 },
 
                 {
                     "product" : "Caramel Frappé",
                     "price": "2.80",
-                    "calories" : "260"
+                    "calories" : "260",
+                    "photo" : "images/caramel-frappe.png"
                 },
 
                 {
                     "product" : "Peach Iced Tea",
                     "price": "1.80",
-                    "calories" : "5"
+                    "calories" : "5",
+                    "photo" : "images/peach-iced-tea.png"
                 },
             
                 {
                     "product" : "Lemon Iced Tea",
                     "price": "1.80",
-                    "calories" : "8"
+                    "calories" : "8",
+                    "photo" : "images/lemon-iced-tea.png"
                 },
 
                 {
                     "product" : "Raspberry Iced Tea",
                     "price": "1.80",
-                    "calories" : "6"
+                    "calories" : "6",
+                    "photo" : "images/raspberry-iced-tea.png"
                 }
             ]
         }
