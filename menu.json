@@ -4,6 +4,7 @@
             "name" : "Coffee",
             "items": [
                 {
+                    "no" : "C0FFY30256",
                     "product" : "Americano",
                     "price": "1.65",
                     "calories" : "28",
@@ -11,6 +12,7 @@
                 },
     
                 {
+                    "no" : "C0FFY32128",
                     "product" : "Flat White",
                     "price" : "1.65",
                     "calories" : "173",
@@ -18,6 +20,7 @@
                 },
     
                 {
+                    "no" : "C0FFY18035",
                     "product" : "Latte",
                     "price" : "1.95",
                     "calories" : "206",
@@ -25,6 +28,7 @@
                 },
             
                 {
+                    "no" : "C0FFY23793",
                     "product" : "Cappuccino",
                     "price" : "1.95",
                     "calories" : "130",
@@ -32,6 +36,7 @@
                 },
     
                 {
+                    "no" : "C0FFY85268",
                     "product" : "Espresso",
                     "price" : "1.50",
                     "calories" : "9",
@@ -39,6 +44,7 @@
                 },
     
                 {
+                    "no" : "C0FFY32540",
                     "product" : "Mocha",
                     "price" : "2.55",
                     "calories" : "197",
@@ -53,6 +59,7 @@
             "name" : "Tea",
             "items": [
                 {
+                    "no" : "C0FFY38532",
                     "product" : "Earl Grey Tea",
                     "price": "1.15",
                     "calories" : "2",
@@ -60,6 +67,7 @@
                 },
 
                 {
+                    "no" : "C0FFY47849",
                     "product" : "Green Tea",
                     "price": "1.30",
                     "calories" : "3",
@@ -67,6 +75,7 @@
                 },
 
                 {
+                    "no" : "C0FFY88684",
                     "product" : "Ginger Tea",
                     "price": "1.30",
                     "calories" : "19",
@@ -74,6 +83,7 @@
                 },
 
                 {
+                    "no" : "C0FFY26812",
                     "product" : "Chamomile Tea",
                     "price": "1.30",
                     "calories" : "2",
@@ -81,6 +91,7 @@
                 },
 
                 {
+                    "no" : "C0FFY36053",
                     "product" : "Mint Tea",
                     "price": "1.30",
                     "calories" : "3",
@@ -95,6 +106,7 @@
             "name" : "Other Hot Drinks",
             "items": [
                 {
+                    "no" : "C0FFY65806",
                     "product" : "Hot Chocolate",
                     "price": "2.15",
                     "calories" : "195",
@@ -102,6 +114,7 @@
                 },
 
                 {
+                    "no" : "C0FFY61710",
                     "product" : "Hot Milk",
                     "price": "1.85",
                     "calories" : "117",
@@ -116,6 +129,7 @@
             "name" : "Cold/Iced Drinks",
             "items": [
                 {
+                    "no" : "C0FFY56274",
                     "product" : "Vanilla Frappé",
                     "price": "2.80",
                     "calories" : "258",
@@ -123,6 +137,7 @@
                 },
 
                 {
+                    "no" : "C0FFY22734",
                     "product" : "Chocolate Frappé",
                     "price": "2.80",
                     "calories" : "261",
@@ -130,6 +145,7 @@
                 },
 
                 {
+                    "no" : "C0FFY54719",
                     "product" : "Caramel Frappé",
                     "price": "2.80",
                     "calories" : "260",
@@ -137,6 +153,7 @@
                 },
 
                 {
+                    "no" : "C0FFY67446",
                     "product" : "Peach Iced Tea",
                     "price": "1.80",
                     "calories" : "5",
@@ -144,6 +161,7 @@
                 },
             
                 {
+                    "no" : "C0FFY63603",
                     "product" : "Lemon Iced Tea",
                     "price": "1.80",
                     "calories" : "8",
@@ -151,6 +169,7 @@
                 },
 
                 {
+                    "no" : "C0FFY31026",
                     "product" : "Raspberry Iced Tea",
                     "price": "1.80",
                     "calories" : "6",
